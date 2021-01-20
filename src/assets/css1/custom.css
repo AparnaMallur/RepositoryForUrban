@@ -1,0 +1,372 @@
+body {
+  overflow-x: hidden !important;
+  font-family: 'Axiforma';
+}
+
+/* html {
+  overflow-x: hidden !important;
+  
+} */
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-SemiBold.eot');
+  src: local('../fonts/Axiforma SemiBold'), local('Axiforma-SemiBold'),
+    url('../fonts/Axiforma-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-SemiBold.woff') format('woff'),
+    url('../fonts/Axiforma-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-Regular.eot');
+  src: local('../fonts/Axiforma Regular'), local('Axiforma-Regular'),
+    url('../fonts/Axiforma-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-Regular.woff') format('woff'),
+    url('../fonts/Axiforma-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-Bold.eot');
+  src: local('../fonts/Axiforma Bold'), local('Axiforma-Bold'),
+    url('../fonts/Axiforma-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-Bold.woff') format('woff'),
+    url('../fonts/Axiforma-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-Medium.eot');
+  src: local('../fonts/Axiforma Medium'), local('Axiforma-Medium'),
+    url('../fonts/Axiforma-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-Medium.woff') format('woff'),
+    url('../fonts/Axiforma-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+/* .rounded {
+  border-radius: .8rem !important;
+} */
+.header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.career-top-banner {
+  background: url(../images/career-banner.jpg);
+  background-size: cover;
+  padding: 200px 0;
+  background-position: center;
+}
+.career-top-banner h3 {
+  font-size: 40px;
+  font-weight: 600;
+}
+.career-top-banner p {
+  font-size: 25px;
+  font-weight: 400;
+}
+.position-fields h3 {
+  font-weight: 700;
+  color: #212121;
+  font-size: 27px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  margin-right: 25px;
+}
+.position-fields .form-control {
+  height: calc(2.5em + .75rem + 2px);
+  font-weight: 600;
+  color: #737373;
+  font-size: 16px;
+  vertical-align: middle;
+}
+.btn-primary {
+  background-color: #202020;
+  font-weight: 600;
+  color: #fff;
+  font-size: 16px;
+  border: 0;
+  padding: 12px 45px;
+  vertical-align: middle;
+}
+.btn-primary:hover {
+  background-color: #000000;
+}
+.position-fields .form-control {
+  height: calc(2.5em + .75rem + 2px);
+  font-weight: 600;
+  color: #737373;
+  font-size: 16px;
+  max-width: 297px;
+  margin: 0 10px;
+}
+.position-fields .btn-link {
+  font-weight: 600;
+  color: #212121;
+  font-size: 16px;
+  padding: 0;
+  vertical-align: middle;
+  margin-left: 25px;
+}
+.position-fields .btn-link img {
+  position: relative;
+  top: -3px;
+}
+.whyUrban-row {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.whyUrban-row h2 {
+  font-size: 27px;
+  color: #212121;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.whyUrban-row p {
+  font-size: 18px;
+  color: #4c4c4c;
+  font-weight: 500;
+}
+.slider1 h3, .slider2 h3 {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 600;
+}
+.slider2 h3 {
+    font-weight: 400;
+}
+    .slider1 p {
+        color: #595959;
+        font-size: 13px;
+        font-weight: 400;
+    }
+.slider1 img, .slider2 img {
+    width: 100%;
+}
+.slider1 .slick-slide, .slider2 .slick-slide {
+    margin: 0 8px;
+}
+.slick-dots li button:before {
+  font-size: 12px !important;
+  width: 10px;
+  height: 10px;
+  content: '•';
+}
+.slick-dots li.slick-active button:before {
+  opacity: 1 !important;
+}
+
+.team-row{
+  background-color: #f7f8fa;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.team-row h2 {
+  font-size: 27px;
+  color: #212121;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.team-row p {
+  font-size: 18px;
+  color: #4c4c4c;
+ 
+  font-weight:500;
+  margin-bottom: 40px;
+   
+}
+.team-row h3 {
+  font-size: 27px;
+  color: #212121;
+ 
+  font-weight: 700;
+ 
+}
+
+.team-row h4 {
+  font-size:17px;
+  color: #595959;
+ 
+  font-weight: 500;
+  margin: 0;
+ 
+}
+
+
+.team-row span{
+  font-size:77px;
+  color: #212121;
+ margin: 0;
+ line-height: 0;
+ 
+}
+
+.team-row  .slick-dots {
+  bottom: -55px;
+  left: 0;
+
+}
+
+.videos-row .play-btn{
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+
+.life-row h2 {
+  font-size: 27px;
+  color: #212121;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+
+.life-row .flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.life-row .content {
+  height: 300px;
+  width:250px;
+ position: relative;
+ border-radius: .5rem;
+ overflow: hidden;
+  
+  background-color: #000;
+  margin: 13px;
+  border: 1px solid lightgrey;
+  display: none;
+}
+
+.life-row .content img {
+  height: 300px;
+  width:100%;
+  object-fit: cover;
+ 
+ 
+}
+
+.life-row .content p{
+  color: #fff;
+  font-weight:600;
+  text-align: left;
+  position: absolute;
+  left: 15px;
+  right: 0;
+  bottom: 0px;
+  line-height: 22px;
+}
+
+
+.life-row #loadMore {
+  width: auto;
+  color: #212121;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 0;
+  font-size: 16px;
+  border: 0px solid transparent;
+  font-weight: 600;
+  position: relative;
+  z-index: 5;
+ 
+ 
+}
+.life-row #loadMore img {
+ display: block;
+ margin: auto;
+ 
+ 
+}
+
+
+.life-row .noContent {
+  color: #000 !important;
+  background-color: transparent !important;
+  pointer-events: none;
+}
+
+.life-row .gradient{
+  position: absolute;
+  z-index:2;
+  bottom: 0;
+  width: 100%;
+  background-image: url(../images/gradient.png);
+  background-position:   bottom;
+  height: 500px;
+  background-repeat: no-repeat;
+  display: none;
+
+}
+
+
+
+ 
+@media (max-width:1279px) {
+  .career-top-banner p br {
+    display: none;
+  }
+  .career-top-banner {
+    padding: 130px 0 80px 0;
+  }
+  .career-top-banner h3 {
+    font-size: 32px;
+  }
+  .career-top-banner p {
+    font-size: 16px;
+  }
+}
+@media (max-width:1199px) {
+  .position-fields br {
+    display: none
+  }
+  .position-fields h3 {
+    display: block;
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  .position-fields .btn-link {
+    display: table !important;
+    margin: auto;
+  }
+  .position-fields .btn-primary {
+    display: table !important;
+    margin: 15px auto;
+  }
+}
+@media (max-width:600px) {
+  .whyUrban-row {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .team-row p {
+    font-size: 15px;
+    color: #4c4c4c;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.team-row h3 {
+  font-size: 22px;
+ 
+
+}
+.team-row h4 {
+  font-size: 15px;
+  
+}
+}

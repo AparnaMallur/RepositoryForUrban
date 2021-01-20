@@ -1,0 +1,572 @@
+body {
+  overflow-x: hidden !important;
+  font-family: 'Axiforma';
+}
+/* html {
+  overflow-x: hidden !important;
+} */
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-SemiBold.eot');
+  src: local('../fonts/Axiforma SemiBold'), local('Axiforma-SemiBold'),
+    url('../fonts/Axiforma-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-SemiBold.woff') format('woff'),
+    url('../fonts/Axiforma-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-Regular.eot');
+  src: local('../fonts/Axiforma Regular'), local('Axiforma-Regular'),
+    url('../fonts/Axiforma-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-Regular.woff') format('woff'),
+    url('../fonts/Axiforma-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-Bold.eot');
+  src: local('../fonts/Axiforma Bold'), local('Axiforma-Bold'),
+    url('../fonts/Axiforma-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-Bold.woff') format('woff'),
+    url('../fonts/Axiforma-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Axiforma';
+  src: url('../fonts/Axiforma-Medium.eot');
+  src: local('../fonts/Axiforma Medium'), local('Axiforma-Medium'),
+    url('../fonts/Axiforma-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Axiforma-Medium.woff') format('woff'),
+    url('../fonts/Axiforma-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+.bg-gray {
+  background-color: #f7f8fa;
+   
+}
+h2{
+  font-weight: 700;
+}
+
+.header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.career-top-banner {
+  background: url(../images/career-banner.jpg);
+  background-size: cover;
+  padding: 200px 0;
+  background-position: center;
+}
+.career-top-banner h3 {
+  font-size: 40px;
+  font-weight: 600;
+}
+.career-top-banner p {
+  font-size: 25px;
+  font-weight: 400;
+}
+.position-fields h3 {
+  font-weight: 700;
+  color: #212121;
+  font-size: 27px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+  margin-right: 25px;
+}
+.position-fields .form-control {
+  height: calc(2.5em + .75rem + 2px);
+  font-weight: 600;
+  color: #737373;
+  font-size: 16px;
+  vertical-align: middle;
+}
+.btn-primary {
+  background-color: #202020;
+  font-weight: 600;
+  color: #fff;
+  font-size: 16px;
+  border: 0;
+  padding: 12px 45px;
+  vertical-align: middle;
+
+      
+}
+
+
+
+.btn-primary-1 {
+  background-color: #202020;
+  font-weight: 600;
+  color: #fff;
+  font-size: 16px;
+  border: 0;
+  padding: 12px 45px;
+  vertical-align: middle;
+      background: linear-gradient(300deg, rgba(163,158,230,1) 0%, rgba(160,177,239,1) 35%, rgba(156,207,255,1) 100%);
+      
+}
+
+
+
+
+.btn-primary:hover {
+  background-color: #000000;
+}
+.position-fields .form-control {
+  height: calc(2.5em + .75rem + 2px);
+  font-weight: 600;
+  color: #737373;
+  font-size: 16px;
+  max-width: 297px;
+  margin: 0 10px;
+}
+.position-fields .btn-link {
+  font-weight: 600;
+  color: #212121;
+  font-size: 16px;
+  padding: 0;
+  vertical-align: middle;
+  margin-left: 25px;
+}
+.position-fields .btn-link img {
+  position: relative;
+  top: -3px;
+}
+.whyUrban-row {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.whyUrban-row h2 {
+  font-size: 27px;
+  color: #212121;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.whyUrban-row p {
+  font-size: 18px;
+  color: #4c4c4c;
+  font-weight: 500;
+}
+.slider1 h3, .slider2 h3 {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 600;
+}
+.slider2 h3 {
+    font-weight: 400;
+}
+.slider1 p {
+  color: #595959;
+  font-size: 13px;
+  font-weight: 400;
+}
+.slider1 img, .slider2 img {
+    width: 100%;
+}
+.slider1 .slick-slide, .slider2 .slick-slide {
+    margin: 0 8px;
+}
+.slick-dots li button:before {
+  font-size: 12px !important;
+  width: 10px;
+  height: 10px;
+  content: '•';
+}
+.slick-dots li.slick-active button:before {
+  opacity: 1 !important;
+}
+.team-row {
+  background-color: #f7f8fa;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.team-row h2 {
+  font-size: 27px;
+  color: #212121;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.team-row p {
+  font-size: 18px;
+  color: #4c4c4c;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+.team-row h3 {
+  font-size: 27px;
+  color: #212121;
+  font-weight: 700;
+}
+.team-row h4 {
+  font-size: 17px;
+  color: #595959;
+  font-weight: 500;
+  margin: 0;
+}
+.team-row span {
+  font-size: 77px;
+  color: #212121;
+  margin: 0;
+  line-height: 0;
+}
+.team-row .slick-dots {
+  bottom: -55px;
+  left: 0;
+}
+.videos-row .play-btn {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.life-row h2 {
+  font-size: 27px;
+  color: #212121;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.life-row .flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.life-row .content {
+  height: 300px;
+  width: 250px;
+  position: relative;
+  border-radius: .5rem;
+  background-color: #000;
+  margin: 13px;
+  border: 1px solid lightgrey;
+  display: none;
+  overflow: hidden;
+}
+.life-row .content p {
+  color: #fff;
+  font-weight: 600;
+  text-align: left;
+  position: absolute;
+  left: 15px;
+  right: 0;
+  bottom: 0px;
+  line-height: 22px;
+}
+.life-row #loadMore {
+  width: auto;
+  color: #212121;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 0;
+  font-size: 16px;
+  border: 0px solid transparent;
+  font-weight: 600;
+  position: relative;
+  z-index: 5;
+}
+.life-row .content img {
+  height: 300px;
+  width:100%;
+  object-fit: cover;
+ 
+ 
+}
+
+.life-row #loadMore img {
+  display: block;
+  margin: auto;
+}
+.life-row .noContent {
+  color: #000 !important;
+  background-color: transparent !important;
+  pointer-events: none;
+}
+.life-row .gradient {
+  position: absolute;
+  z-index: 2;
+  bottom: 0;
+  width: 100%;
+  background-image: url(../images/gradient.png);
+  background-position: bottom;
+  height: 500px;
+  background-repeat: no-repeat;
+  display: none;
+}
+.positionBox-row .flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.positionBox-row #loadMore2 {
+  width: auto;
+  color: #212121;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 0;
+  font-size: 16px;
+  border: 0px solid transparent;
+  font-weight: 600;
+  position: relative;
+  z-index: 5;
+}
+.positionBox-row #loadMore2 img {
+  display: block;
+  margin: auto;
+}
+.positionBox-row .noContent {
+  color: #000 !important;
+  background-color: transparent !important;
+  pointer-events: none;
+}
+.positionBox-row .gradient {
+  position: absolute;
+  z-index: 2;
+  bottom: 80px;
+  width: 100%;
+  background-image: url(../images/gradient.png);
+  background-position: bottom;
+  height: 500px;
+  background-repeat: no-repeat;
+}
+.positionBox-row .white-boxes {
+  height: 250px;
+  max-width: 330px;
+  width: 100%;
+  padding: 35px;
+  border-radius: .5rem;
+  position: relative;
+  margin: 20px;
+ 
+}
+.positionBox-row .white-boxes h2 {
+  font-size: 22px;
+  text-align: left;
+  margin-bottom: 13px;
+  font-weight: 700;
+}
+.positionBox-row .white-boxes p {
+  font-size: 16px;
+  font-weight: 500;
+  color: #595959;
+}
+.positionBox-row .white-boxes .btn-primary {
+  font-size: 16px;
+  padding: 6px 28px;
+  position: absolute;
+  bottom: 36px;
+  color:#fff
+}
+
+
+h2.inner-header{
+  font-size: 40px;
+  font-weight: 700;
+}
+p.big{
+  font-size: 25px;
+  font-weight: 400;
+}
+
+
+/*.apply-form{
+  background: rgb(163,158,230);
+background: linear-gradient(300deg, rgba(163,158,230,1) 0%, rgba(160,177,239,1) 35%, rgba(156,207,255,1) 100%);
+}*/
+
+.apply-form h2{
+ font-size: 24px;
+ margin-bottom: 18px;
+}
+.apply-form .form-control{
+  font-size: 16px;
+  border: 1px solid #8aaedc;
+  height: calc(2.4em + .75rem + 2px);
+ }
+
+ .apply-form textarea{
+  
+ height: auto!important;
+padding-top: 20px;
+ }
+
+ .apply-form .upload-box {
+ padding-top: 40px;
+ padding-bottom: 40px;
+   }
+
+ .apply-form .upload-box h3{
+font-size: 16px;
+color: #000000;
+margin: 0;
+font-weight: 600;
+ }
+ .apply-form .upload-box h3 span{
+  font-size: 15px;
+  color: #999999;
+  font-weight: 600;
+  display: block;
+   }
+
+   .apply-form-sec{
+    top: -30px;
+     position: relative;
+   }
+
+   .apply-form-sec h2.heading-text{
+     font-size: 24px;
+     border-bottom: 1px solid #ccc;
+ padding:25px   40px;
+     margin: 0;
+   }
+   .apply-form-sec .inner{
+   padding-left: 39px;
+   padding-right: 39px;
+   }
+
+@media (max-width:1279px) {
+  .career-top-banner p br {
+    display: none;
+  }
+  .career-top-banner {
+    padding: 130px 0 80px 0;
+  }
+  .career-top-banner h3 {
+    font-size: 32px;
+  }
+  .career-top-banner p {
+    font-size: 16px;
+  }
+}
+@media (max-width:1199px) {
+
+  .resp-tabs-list li {
+    
+    font-size: 14px!important;
+   
+    margin: 0 12px!important;
+ 
+}
+
+
+  .position-fields br {
+    display: none
+  }
+  .position-fields h3 {
+    display: block;
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  .position-fields .btn-link {
+    display: table !important;
+    margin: auto;
+  }
+  .position-fields .btn-primary {
+    display: table !important;
+    margin: 15px auto;
+  }
+}
+
+@media (max-width:768px) {
+.apply-form-sec {
+ 
+  position: static;
+ 
+  padding-top: 20px;
+}
+h2.resp-accordion {
+  font-size: 18px;
+  border-top: 1px solid #ccc;
+}
+.apply-form-sec h2.heading-text {
+ 
+  display: none;
+}
+}
+
+@media (max-width:600px) {
+  .life-row .content p {
+    
+    left: 15px;
+    
+    bottom: -7px;
+    line-height: 17px;
+    font-size: 13px;
+}
+  .life-row .content {
+    height: 200px;
+    width: 48%;
+    
+    margin: 2px;
+  
+}
+
+  .apply-form-sec .inner {
+    padding-left:15px;
+    padding-right: 15px;
+}
+
+.apply-form-sec .inner p {
+font-size: 14px;
+}
+
+  h2.inner-header {
+    font-size: 24px;
+    
+}
+h2.resp-accordion {
+  font-size: 16px;
+   
+}
+p.big {
+  font-size: 19px;
+ 
+}
+
+.apply-form h2 {
+  font-size: 19px;
+  margin-bottom: 15px;
+}
+
+  .whyUrban-row {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .team-row p {
+    font-size: 15px;
+    color: #4c4c4c;
+    font-weight: 500;
+    margin-bottom: 30px;
+  }
+  .team-row h3 {
+    font-size: 22px;
+  }
+  .team-row h4 {
+    font-size: 15px;
+  }
+  .positionBox-row .white-boxes {
+    height: auto;
+    margin: 10px 0;
+    padding: 28px;
+  }
+  .positionBox-row .white-boxes .btn-primary {
+    position: static;
+  }
+  
+
+  
+}

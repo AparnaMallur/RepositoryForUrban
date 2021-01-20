@@ -1,0 +1,616 @@
+.About__root--2Pc3I .About__aboutContainer--3Iz1x {
+    width: 100%;
+    margin: 0px auto;
+    padding: 0;
+}
+
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 {
+        margin-bottom: 0;
+    }
+
+.About__root--2Pc3I p {
+    font-family: 'axiforma';
+}
+
+.aboutContainer {
+    width: 1136px;
+    margin: 0 auto;
+}
+
+.About__root--2Pc3I h2 {
+    font-size: 32px;
+}
+
+.About__root--2Pc3I .About__aboutContainer--3Iz1x {
+    background-color: transparent;
+    border: 0;
+}
+
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        background-color: white;
+        margin: 2px;
+        height: 250px;
+        border-radius: 14px;
+        box-shadow: 0px 0px 7px 0px #e6e6e6;
+    }
+
+        .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR .About__stat--1uQwJ {
+            color: black;
+            font-size: 40px;
+            padding-top: 3rem;
+        }
+
+.aboutbg {
+    background: url('../img/men-bg.png');
+    margin-top: -9%;
+    padding-left: 5%;
+}
+
+    .aboutbg h2, .aboutbg p {
+        color: white !important;
+        text-align: left;
+        width: 55%;
+    }
+
+    .aboutbg .row {
+        padding-top: 7%;
+    }
+
+.abouttext {
+    padding-top: 5%;
+    padding-left: 2%;
+}
+
+.row {
+    margin: 0 auto !important;
+}
+
+.aboutsmalltext {
+    font-size: 12px !important;
+    position: absolute;
+    bottom: 0;
+    color: #d4d4d4;
+    padding-bottom: 10px;
+}
+
+.abtwhotext {
+    text-align: left;
+}
+
+.citydiv {
+    background-color: #f2f3f5;
+    border-radius: 30px;
+    padding: 8px 22px;
+    margin: 10px 4px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.citydivactive {
+    background: rgb(241,159,138);
+    background: linear-gradient(90deg, rgba(241,159,138,1) 4%, rgba(238,109,140,1) 41%, rgba(187,91,155,1) 100%);
+    color: white;
+}
+
+.city2div {
+    /*        height: 250px;*/
+    border-radius: 14px;
+}
+
+    .city2div img {
+        width: 100%;
+    }
+
+.About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__indiaCitiesImg--2PtAD {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.leader img {
+    margin: 0 auto;
+    padding-bottom: 10%;
+}
+
+.banner {
+    background: url('../img/bottombanner.png');
+    background-size: cover;
+    height: 445px;
+    margin-bottom: 7%;
+}
+
+    .banner h2, .About__queryText--3eIqz, .banner span {
+        color: white;
+    }
+
+    .banner h2 {
+        width: 76%;
+        margin: 0 auto;
+        font-size: 36px;
+        font-weight: 500;
+        padding-top: 2%;
+    }
+
+.About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__carrerLink--12394 {
+    text-align: center;
+    background: white;
+    border-radius: 14px;
+    padding: 10%;
+    z-index: 9;
+    position: absolute;
+    margin: 0px 20px;
+    box-shadow: 2px 3px 2px 0px #e4e4e4;
+}
+
+#leaderdesk {
+    display: block;
+}
+
+#leadermob, .leadermobname {
+    display: none;
+}
+
+.slider2 h3 {
+    padding-bottom: 10px;
+}
+
+
+.teamcontent {
+    background-color: white;
+    padding: 3% 2%;
+    border-radius: 14px;
+    box-shadow: 0px 0px 7px 0px #e6e6e6;
+    width: 1136px;
+    margin: 0 auto;
+    margin-top: -2%;
+    position: relative;
+}
+
+.bannertxt1 {
+    position: absolute;
+    top: 2%;
+    width: 400px;
+    margin-left: 16%;
+}
+
+    .bannertxt1 h6 {
+        color: #fff;
+    }
+
+.bannertxt2 {
+    position: absolute;
+    top: 38%;
+    width: 412px;
+    margin-left: 50%;
+}
+
+    .bannertxt2 p {
+        font-size: 3.5em;
+        color: #fff;
+        margin: 0 0 9% 0;
+    }
+
+    .bannertxt2 h4 {
+        color: #fff;
+    }
+
+.teamimg {
+    width: 100%;
+}
+.teamimgmob{display:none;}
+
+.divrightimg {
+    margin: 5%;
+    width: 100%;
+    float: left;
+}
+
+.vidcontent {
+    display: inline-flex;
+    background-color: #f2f2f2;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+    .vidcontent h5, h6 {
+        padding: 2%;
+        vertical-align: middle;
+        text-align: left;
+        color: black;
+        line-height: 10px;
+        margin-left: 9%;
+    }
+
+.vidcontentinner {
+    width: 250px;
+    padding-top: 9%;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .aboutContainer {
+        width: 100%;
+    }
+
+    .aboutbg {
+        margin-top: -14%;
+        padding-left: 0;
+    }
+
+    .imgmen {
+        width: 100%;
+        /*  padding-top: 7%;*/
+        position: absolute;
+        bottom: 0;
+        margin-left: -5%;
+    }
+
+    .abouttext {
+        padding-top: 6%;
+        padding-left: 0%;
+    }
+
+    .aboutbg h2, .aboutbg p {
+        width: 100%;
+    }
+
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        height: 220px;
+    }
+
+        .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR .About__stat--1uQwJ {
+            font-size: 30px;
+            padding-top: 2rem;
+        }
+
+    .aboutsmalltext {
+        position: relative;
+    }
+
+    .imgmap {
+        padding-top: 10%;
+    }
+
+    .banner h2 {
+        font-size: 30px;
+        padding-top: 0;
+    }
+
+    .teamcontent {
+        width: 90%; text-align:left;
+    }
+
+    .bannertxt1 {
+        margin-left: 0;
+    }
+    .bannertxt2 {
+        top: 30%;
+    }
+        .bannertxt2 p {
+            font-size: 2.5em;
+            margin: 0 0 5% 0;
+        }
+    .bannertxt1 h6{font-size:12px;}
+    .vidcontentinner {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        height: 220px;
+        width: 30%;
+        display: table;
+        padding-left: 7px !important;
+    }
+    
+    
+
+
+
+    .aboutbg {
+        margin-top: 0;
+    }
+
+    .abouttext {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .imgmen {
+        position: relative;
+        margin-left: 0;
+    }
+
+    .abouttext {
+        padding-left: 1%;
+    }
+
+    .col-md-6, .col-md-4, .col-md-8 {
+        max-width: 100%;
+        flex: 100%;
+		padding-top: 10px;
+    }
+
+    .leader img {
+        padding: 0 2% 10% 2%;
+        width: 100%;
+    }
+
+    .banner h2 {
+        font-size: 26px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__carrerLink--12394 {
+        position: relative;
+        margin-top: 2%;
+    }
+
+    .banner {
+        display: inline-table;
+    }
+    .bannertxt2 {
+        top: 28%;
+        width: 200px;
+        margin-left: 45%;
+        text-align: left;
+    }
+        .bannertxt2 p {
+            font-size: 2em;
+            margin: 0 0 5% 0;
+        }
+        .bannertxt2 h4 {
+            font-size: 20px;
+        }
+}
+
+
+@media only screen and (max-width: 768px) {
+.About_root--2Pc3I .AboutaboutContainer--3Iz1x .AboutaboutSection--3gKk1 .About_grid--37u4p {
+    padding-left: 7px;
+    flex-direction: column;
+}
+
+}
+
+
+
+@media screen and (max-width: 481px) {
+    
+      .About__root--2Pc3I p {
+    margin: 0px 0 8px !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 31px;
+    color: #555;
+}
+
+
+.bannertxt2 p {color: #fff;}
+
+
+.our-leadership1123
+{
+    
+    padding-left: 3.7% !important;
+    padding-bottom: 3% !important;
+}
+
+
+.our-investore1123
+{
+    padding-top:10% !important;
+    padding-left: 3.7% !important;
+}
+
+
+    
+    .city2div {
+        margin: 10px 0;
+        padding-left: 4% !important;
+    padding-right: 3.4% !important;
+    }
+
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        width: 56%;
+    }
+
+    .banner h2 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .About__root--2Pc3I h2 {
+        font-size: 24px;
+    }
+
+    #leaderdesk {
+        display: none;
+    }
+
+    #leadermob, .leadermobname {
+        display: block;
+        width: 100%;
+    }
+        .leadermobname p{
+            margin:0;
+        }
+        .leadermobname p a {
+            float: left;
+            margin: 0 2%;
+            font-size: 16px;
+        }
+        .bannertxt1 {
+            width: 90%;
+            top: 0;
+        }
+    .divrightimg {
+        margin: 5% 1%;
+    }
+    .bannertxt1 h6 {
+        margin-left: 1%;
+    }
+    .bannertxt2 {
+        width: 169px;
+    }
+    .vidcontentinner {
+        width: 116px;
+        padding-top: 14%;
+    }
+        .vidcontentinner h5 {
+            font-size: 16px;
+            margin-left: 2%;
+        }
+        .vidcontentinner h6 {
+            font-size: 12px;
+            margin-left: 2%;
+        }
+    .teamimgmob {
+        display: block;
+        width: 100%;
+    }
+    .teamimg{display:none;}
+
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p {
+        flex-direction: unset;
+    }
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p {
+        display: inline-block;
+    }
+        .About__gridItem--2i8RR > .px-5 {
+            padding-left: 1px !important;
+            padding-right: 1px !important;
+        }
+    .About__grid--37u4p > .mx-3 {
+        margin-left: 0.5rem !important;
+        margin-right: 0.5rem !important;
+    }
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        width: 45.5%;
+        height: 170px;
+        float: left;
+        margin-bottom: 3%;
+    }
+        .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR .About__stat--1uQwJ {
+            font-size: 20px;
+            padding-top: 1rem;
+        }
+        
+    .About__grid--37u4p
+    {
+            padding-left: 7px !important;
+    padding-right: 5px !important;
+    }
+    
+    
+    .About__stat--1uQwJ {
+    font-size: 25px !important;
+    padding-top: 3rem !important;
+}
+
+.abouttext {
+    padding-left: 5.9% !important;
+    padding-right: 3.5% !important;
+}
+
+
+.about18Cities
+{
+padding-left: 6% !important;
+padding-top: 50px;
+padding-right: 5% !important;
+}
+
+.aboutContainer
+{
+padding-left: .5rem !important;
+padding-right: .5rem !important;
+} 
+        
+    .About__root--2Pc3I p {
+        font-size: 16px;
+    }
+    .city3 .col-md-3 {
+        width: 50%;
+        padding-left: 5px;
+        padding-right:5px;
+    }
+    .About__root--2Pc3I h2{}
+    .allcities > .p-5 {
+        padding:0 !important;
+    }
+    .allcities .col-md-6 {
+        padding-left: 2px;
+        padding-right: 0px;
+    }
+    .citydiv {
+        padding: 6px 16px;
+        font-size: 12px;
+    }
+    .leader img {
+        padding: 0 2% 2% 2%;
+    }
+    .leadermobname p {
+        width: 91px;
+        display: inline-block;
+        float: left;
+        margin: 2% 8% 10% 2%;
+        line-height: 24px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .leadermobname p a {
+        margin: 0 1.4%;
+        font-size: 15px;
+    }
+    .leadermobname p {
+        margin: 2% 6% 10% 2%;
+    }
+}
+
+@media screen and (max-width: 361px) {
+   /* .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        width: 60%;
+    }*/
+
+    .bannertxt2 {
+        width: 147px;
+    }
+        .bannertxt2 p {
+            font-size: 1.7em;
+        }
+
+        .vidcontentinner {
+            padding-bottom: 14%;
+        }
+    .vidcontent {
+        display: inline-block;
+        border-bottom-left-radius: 10px;
+    }
+    .divrightimg {
+        margin: 5% 0%;
+    }
+    .leadermobname p {
+        margin: 2% 5% 10% 2%;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .About__root--2Pc3I .About__aboutContainer--3Iz1x .About__aboutSection--3gKk1 .About__grid--37u4p .About__gridItem--2i8RR {
+        width: 45%;
+    }
+
+    .leadermobname p a {
+        font-size: 12px;
+        margin: 0 3.1%;
+    }
+    .leadermobname p {
+        width: 76px;
+        margin: 2% 7% 10% 2%;
+    }
+}

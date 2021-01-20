@@ -1,0 +1,188 @@
+  <section class="positionBox-row container py-5 position-relative">
+        <div class="flex ">
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Painting</h2>
+                <p>Mumbai, Chennai</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Appliances</h2>
+                <p>Mumbai, Pune, Delhi, Bangalore, Ahmedabad</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Operations Manager</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Salon</h2>
+                <p>Chennai</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Software Development Engineer - II Data Engineering</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Salon Trainer</h2>
+                <p>Delhi NCR</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>AVP - Central Category Team - Appliance Repairs</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Assistant Finance Controller</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Software Development Engineer - II Backend</h2>
+                <p>Mumbai, Chennai</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Associate Manager - HR Operations</h2>
+                <p>Delhi NCR</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Senior Associate - Trust and Security</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>City GM - Beauty & Wellness</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Appliances</h2>
+                <p>Mumbai, Pune, Delhi, Bangalore, Ahmedabad</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Talent Acquisition Lead</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Senior Product Manager - Partner Ecosystem</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Painting</h2>
+                <p>Mumbai, Chennai</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Appliances</h2>
+                <p>Mumbai, Pune, Delhi, Bangalore, Ahmedabad</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Operations Manager</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Salon</h2>
+                <p>Chennai</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Software Development Engineer - II Data Engineering</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Salon Trainer</h2>
+                <p>Delhi NCR</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>AVP - Central Category Team - Appliance Repairs</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Assistant Finance Controller</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Software Development Engineer - II Backend</h2>
+                <p>Mumbai, Chennai</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Associate Manager - HR Operations</h2>
+                <p>Delhi NCR</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Senior Associate - Trust and Security</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>City GM - Beauty & Wellness</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+
+            <div class="white-boxes shadow">
+                <h2>Category Manager - Appliances</h2>
+                <p>Mumbai, Pune, Delhi, Bangalore, Ahmedabad</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Talent Acquisition Lead</h2>
+                <p>Gurgaon, Haryana</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+            <div class="white-boxes shadow">
+                <h2>Senior Product Manager - Partner Ecosystem</h2>
+                <p>Gurgaon</p>
+                <a href="" class="btn btn-primary">Apply</a>
+            </div>
+
+        </div>
+        <a href="#" id="loadMore2">Load more <img src={downarrow} alt=""/></a>
+        <div class="gradient"></div>
+    </section>

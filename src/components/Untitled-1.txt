@@ -1,0 +1,3 @@
+localStorage.setItem("deplist", response.data);
+var deplist = localStorage.getItem("deplist");
+localStorage.removeItem("deplist");
